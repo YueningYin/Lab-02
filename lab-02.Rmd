@@ -16,19 +16,19 @@ library(readxl)
 ## Load & join data sets
 
 ```{r load-data, message = FALSE}
-# Member 2 (pair 1) write code to load File 1 data here:
+Member 2 (pair 1) write code to load File 1 data here:
 
 
 
-# Member 4 (pair 2) write code to load File 2 data here:
+Member 4 (pair 2) write code to load File 2 data here:
+per-capicta-ocean-plastic-waste.txt
 
 
+Member 1 (pair 1) write code to load File 3 data here:
+UN_country_population.tsv
 
-# Member 1 (pair 1) write code to load File 3 data here:
 
-
-
-# Member 3 (pair 2) write code to load File 4 data here:
+Member 3 (pair 2) write code to load File 4 data here:
 
 
 
